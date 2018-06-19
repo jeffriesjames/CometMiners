@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - planet
+  - JumpPoint
+  - Gold
+  - Scene
+  - Alien
+  - Dirt
+  - Seed
+  - Water
+  - Hands
+  - Slot
+  - MainInventory
+  - ItemIcon
+  - Slots
+  - Canvas
+  - EventSystem
+  - Tooltip
+  - Item
+  - DraggingItem
+  - Hotbar
+  - ResultSlot
+  - EquipmentSystem
+  - Timer
+  - Panel
+  - PlayerI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - MarsObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

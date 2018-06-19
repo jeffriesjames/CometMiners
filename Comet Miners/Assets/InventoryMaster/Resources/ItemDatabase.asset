@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b4c29ddb3cf21d4e9b0596a8ba26af7, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: 
+  itemList:
+  - itemName: 
+    itemID: 0
+    itemDesc: 'If you drink this nice bottle you will get some health back.
+
+
+      + 20 Health'
+    itemIcon: {fileID: 0}
+    itemModel: {fileID: 0}
+    itemValue: 1
+    itemType: 2
+    itemWeight: 0
+    maxStack: 0
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []
+  - itemName: Iron
+    itemID: 1
+    itemDesc: Crafting Material
+    itemIcon: {fileID: 21300000, guid: d0ca76b2b1bfe004abe00cfd541f8d0b, type: 3}
+    itemModel: {fileID: 1318815296614426, guid: 58442b15577747a4e8c7a7e29969c6fe,
+      type: 2}
+    itemValue: 1
+    itemType: 0
+    itemWeight: 0
+    maxStack: 5000
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []
+  - itemName: Water
+    itemID: 2
+    itemDesc: Used to water crops
+    itemIcon: {fileID: 21300000, guid: 325a3dd7a93355d4e91d76fda74ca99f, type: 3}
+    itemModel: {fileID: 1380404955766322, guid: 4f29743bc6a5bdb45a68d78d054e34ef,
+      type: 2}
+    itemValue: 1
+    itemType: 0
+    itemWeight: 0
+    maxStack: 5000
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []
+  - itemName: Gold
+    itemID: 3
+    itemDesc: Currency or Crafting Item
+    itemIcon: {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
+    itemModel: {fileID: 1433892109002530, guid: 14338945e9bf54446b7f780026d58b12,
+      type: 2}
+    itemValue: 1
+    itemType: 0
+    itemWeight: 0
+    maxStack: 10000
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []
+  - itemName: Seeds
+    itemID: 4
+    itemDesc: Used to plant crops
+    itemIcon: {fileID: 21300000, guid: dca0f13b763c4fb418cdbf5e49b333c9, type: 3}
+    itemModel: {fileID: 1301373758436392, guid: e73549df0b5681a4b93958731ae2a9d5,
+      type: 2}
+    itemValue: 1
+    itemType: 0
+    itemWeight: 0
+    maxStack: 10000
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []
+  - itemName: Fence
+    itemID: 5
+    itemDesc: Used to create a perimeter around crops
+    itemIcon: {fileID: 21300000, guid: 8951055f7be6d5249b839f72079d2187, type: 3}
+    itemModel: {fileID: 0}
+    itemValue: 1
+    itemType: 0
+    itemWeight: 0
+    maxStack: 1000
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []
+  - itemName: Battery
+    itemID: 6
+    itemDesc: Powersupply for crafting purposes
+    itemIcon: {fileID: 0}
+    itemModel: {fileID: 0}
+    itemValue: 1
+    itemType: 0
+    itemWeight: 0
+    maxStack: 5
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []
+  - itemName: Transmitter
+    itemID: 7
+    itemDesc: Use to exchange Gold for materials from Earth
+    itemIcon: {fileID: 0}
+    itemModel: {fileID: 0}
+    itemValue: 1
+    itemType: 0
+    itemWeight: 0
+    maxStack: 1
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []
+  - itemName: Metal Wall
+    itemID: 8
+    itemDesc: Crafting item for large structures.
+    itemIcon: {fileID: 21300000, guid: 321ebd955163fe244a6df8c097787dc1, type: 3}
+    itemModel: {fileID: 0}
+    itemValue: 1
+    itemType: 0
+    itemWeight: 0
+    maxStack: 10
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []
+  - itemName: Generator
+    itemID: 9
+    itemDesc: 'Powersupply to power large structures
+
+      *Crafting Item*'
+    itemIcon: {fileID: 0}
+    itemModel: {fileID: 0}
+    itemValue: 1
+    itemType: 0
+    itemWeight: 0
+    maxStack: 1
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []
+  - itemName: House
+    itemID: 10
+    itemDesc: Craft a house for you or to colonize Mars
+    itemIcon: {fileID: 0}
+    itemModel: {fileID: 0}
+    itemValue: 1
+    itemType: 0
+    itemWeight: 0
+    maxStack: 1
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []
+  - itemName: Shop
+    itemID: 11
+    itemDesc: Set up a random shop
+    itemIcon: {fileID: 0}
+    itemModel: {fileID: 0}
+    itemValue: 1
+    itemType: 0
+    itemWeight: 0
+    maxStack: 1
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []
+  - itemName: Greenhouse
+    itemID: 12
+    itemDesc: Crops grow faster inside of greenhouses
+    itemIcon: {fileID: 0}
+    itemModel: {fileID: 0}
+    itemValue: 1
+    itemType: 0
+    itemWeight: 0
+    maxStack: 1
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []
+  - itemName: Potato
+    itemID: 13
+    itemDesc: Consumable or Crafting Batteries
+    itemIcon: {fileID: 21300000, guid: 4730aebefe4b62d46baee3f4a5df3fcc, type: 3}
+    itemModel: {fileID: 0}
+    itemValue: 1
+    itemType: 0
+    itemWeight: 0
+    maxStack: 10000
+    indexItemInList: 999
+    rarity: 0
+    itemAttributes: []

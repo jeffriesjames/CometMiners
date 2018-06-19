@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c81ebb5a9a472b4f9be77b8725b246a, type: 3}
+  m_Name: BlueprintDatabase
+  m_EditorClassIdentifier: 
+  blueprints:
+  - ingredients: 
+    amount: 
+    finalItem:
+      itemName: 
+      itemID: 0
+      itemDesc: 
+      itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
+      itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
+      itemValue: 0
+      itemType: 0
+      itemWeight: 0
+      maxStack: 0
+      indexItemInList: 0
+      rarity: 0
+      itemAttributes: []
+    amountOfFinalItem: 0
+    timeToCraft: 0
+  - ingredients: 01000000
+    amount: 020000000100000000000000
+    finalItem:
+      itemName: Fence
+      itemID: 5
+      itemDesc: Used to create a perimeter around crops
+      itemIcon: {fileID: 21300000, guid: 8951055f7be6d5249b839f72079d2187, type: 3}
+      itemModel: {fileID: 0}
+      itemValue: 3
+      itemType: 0
+      itemWeight: 0
+      maxStack: 1000
+      indexItemInList: 999
+      rarity: 0
+      itemAttributes: []
+    amountOfFinalItem: 3
+    timeToCraft: 0
+  - ingredients: 030000000d000000
+    amount: 0100000002000000
+    finalItem:
+      itemName: Battery
+      itemID: 6
+      itemDesc: Powersupply for crafting purposes
+      itemIcon: {fileID: 0}
+      itemModel: {fileID: 0}
+      itemValue: 1
+      itemType: 0
+      itemWeight: 0
+      maxStack: 5
+      indexItemInList: 999
+      rarity: 0
+      itemAttributes: []
+    amountOfFinalItem: 1
+    timeToCraft: 0
+  - ingredients: 010000000300000006000000
+    amount: 010000000100000001000000
+    finalItem:
+      itemName: Transmitter
+      itemID: 7
+      itemDesc: Use to exchange Gold for materials from Earth
+      itemIcon: {fileID: 0}
+      itemModel: {fileID: 0}
+      itemValue: 1
+      itemType: 0
+      itemWeight: 0
+      maxStack: 1
+      indexItemInList: 999
+      rarity: 0
+      itemAttributes: []
+    amountOfFinalItem: 1
+    timeToCraft: 0
+  - ingredients: 0100000005000000
+    amount: 0300000001000000
+    finalItem:
+      itemName: Metal Wall
+      itemID: 8
+      itemDesc: Crafting item for large structures.
+      itemIcon: {fileID: 21300000, guid: 321ebd955163fe244a6df8c097787dc1, type: 3}
+      itemModel: {fileID: 0}
+      itemValue: 3
+      itemType: 0
+      itemWeight: 0
+      maxStack: 10
+      indexItemInList: 999
+      rarity: 0
+      itemAttributes: []
+    amountOfFinalItem: 3
+    timeToCraft: 0
+  - ingredients: 060000000800000001000000
+    amount: 020000000100000002000000
+    finalItem:
+      itemName: Generator
+      itemID: 9
+      itemDesc: 'Powersupply to power large structures
+
+        *Crafting Item*'
+      itemIcon: {fileID: 0}
+      itemModel: {fileID: 0}
+      itemValue: 1
+      itemType: 0
+      itemWeight: 0
+      maxStack: 1
+      indexItemInList: 999
+      rarity: 0
+      itemAttributes: []
+    amountOfFinalItem: 1
+    timeToCraft: 0
+  - ingredients: 0800000009000000
+    amount: 0a00000001000000
+    finalItem:
+      itemName: House
+      itemID: 10
+      itemDesc: Craft a house for you or to colonize Mars
+      itemIcon: {fileID: 0}
+      itemModel: {fileID: 0}
+      itemValue: 1
+      itemType: 0
+      itemWeight: 0
+      maxStack: 1
+      indexItemInList: 999
+      rarity: 0
+      itemAttributes: []
+    amountOfFinalItem: 1
+    timeToCraft: 0
+  - ingredients: 0800000009000000
+    amount: 0300000001000000
+    finalItem:
+      itemName: Shop
+      itemID: 11
+      itemDesc: Set up a random shop
+      itemIcon: {fileID: 0}
+      itemModel: {fileID: 0}
+      itemValue: 1
+      itemType: 0
+      itemWeight: 0
+      maxStack: 1
+      indexItemInList: 999
+      rarity: 0
+      itemAttributes: []
+    amountOfFinalItem: 1
+    timeToCraft: 0
+  - ingredients: 0800000009000000
+    amount: 0300000001000000
+    finalItem:
+      itemName: Greenhouse
+      itemID: 12
+      itemDesc: Crops grow faster inside of greenhouses
+      itemIcon: {fileID: 0}
+      itemModel: {fileID: 0}
+      itemValue: 1
+      itemType: 0
+      itemWeight: 0
+      maxStack: 1
+      indexItemInList: 999
+      rarity: 0
+      itemAttributes: []
+    amountOfFinalItem: 1
+    timeToCraft: 0

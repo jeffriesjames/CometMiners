@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 81df01031a64b8343b7d1f816a15019c
+timeCreated: 1492835222
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001
+    100004: Cylinder001
+    100006: Cylinder002
+    100008: Cylinder003
+    100010: Cylinder004
+    100012: Cylinder005
+    100014: Cylinder006
+    100016: Cylinder007
+    100018: Cylinder008
+    100020: GeoSphere001
+    100022: Sphere001
+    100024: Sphere002
+    100026: Sphere003
+    100028: Sphere004
+    100030: Torus001
+    100032: Torus002
+    100034: Torus003
+    400000: //RootNode
+    400002: Box001
+    400004: Cylinder001
+    400006: Cylinder002
+    400008: Cylinder003
+    400010: Cylinder004
+    400012: Cylinder005
+    400014: Cylinder006
+    400016: Cylinder007
+    400018: Cylinder008
+    400020: GeoSphere001
+    400022: Sphere001
+    400024: Sphere002
+    400026: Sphere003
+    400028: Sphere004
+    400030: Torus001
+    400032: Torus002
+    400034: Torus003
+    2300000: Box001
+    2300002: Cylinder001
+    2300004: Cylinder002
+    2300006: Cylinder003
+    2300008: Cylinder004
+    2300010: Cylinder005
+    2300012: Cylinder006
+    2300014: Cylinder007
+    2300016: Cylinder008
+    2300018: GeoSphere001
+    2300020: Sphere001
+    2300022: Sphere002
+    2300024: Sphere003
+    2300026: Sphere004
+    2300028: Torus001
+    2300030: Torus002
+    2300032: Torus003
+    3300000: Box001
+    3300002: Cylinder001
+    3300004: Cylinder002
+    3300006: Cylinder003
+    3300008: Cylinder004
+    3300010: Cylinder005
+    3300012: Cylinder006
+    3300014: Cylinder007
+    3300016: Cylinder008
+    3300018: GeoSphere001
+    3300020: Sphere001
+    3300022: Sphere002
+    3300024: Sphere003
+    3300026: Sphere004
+    3300028: Torus001
+    3300030: Torus002
+    3300032: Torus003
+    4300000: Cylinder001
+    4300002: Cylinder002
+    4300004: Cylinder003
+    4300006: Cylinder004
+    4300008: Sphere001
+    4300010: Box001
+    4300012: GeoSphere001
+    4300014: Sphere002
+    4300016: Sphere003
+    4300018: Sphere004
+    4300020: Cylinder005
+    4300022: Cylinder006
+    4300024: Cylinder007
+    4300026: Cylinder008
+    4300028: Torus001
+    4300030: Torus002
+    4300032: Torus003
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
